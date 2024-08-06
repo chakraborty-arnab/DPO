@@ -1,6 +1,7 @@
 # Overview
 We will generate a preference dataset using PairRM and fine-tune a model with [DPO (Direct Preference Optimization)](https://arxiv.org/abs/2305.18290). 
 This powerful training recipe is the foundation for some of the top models according to Alpaca Eval.
+![Direct Preference Optimization](assets/DPO.png)
 
 # Steps
 1. Generate a Preference Dataset
